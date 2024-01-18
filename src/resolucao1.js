@@ -1,7 +1,7 @@
  
 
 function calcularSaldoDeVitorias(vitorias, derrotas) {
-    let saldo = vitorias - derrotas
+    const saldo = vitorias - derrotas
     return saldo
 }
 
@@ -32,4 +32,4 @@ function main(vitorias, derrotas) {
     console.log(`O Herói tem o saldo de ${saldo} e está no nível de ${nivel}`);
 }
 
-main(77,3)
+main(97,3)

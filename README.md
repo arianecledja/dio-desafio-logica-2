@@ -1,9 +1,9 @@
- # 2️⃣ Calculadora de partidas Rankeadas
-**O Que deve ser utilizado**
+ # 2️⃣ Calculadora de partidas Rankeadas ✅ Concluído
+
+**O Que foi utilizado**
 
 - Variáveis
 - Operadores
-- Laços de repetição
 - Estruturas de decisões
 - Funções
 
